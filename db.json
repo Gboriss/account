@@ -1,0 +1,67 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "edit": false,
+        "firstname": "Кошкин",
+        "lastname": "Дмитрий",
+        "email": "ala@mail.ru"
+      },
+      {
+        "id": 2,
+        "edit": false,
+        "firstname": "Капустин",
+        "lastname": "Антон",
+        "email": "Garr@gmail.com"
+      },
+      {
+        "id": 3,
+        "edit": false,
+        "firstname": "Иванова",
+        "lastname": "Саша",
+        "email": "Dfffla@yahoo.com"
+      },
+      {
+        "id": 4,
+        "edit": false,
+        "firstname": "Петрова",
+        "lastname": "Маша",
+        "email": "Masha@yandex.ru"
+      },
+      {
+        "id": 5,
+        "edit": true,
+        "firstname": "Калмыков",
+        "lastname": "Юрий",
+        "email": "ddda@gmail.com"
+      },
+      {
+        "id": 6,
+        "edit": false,
+        "firstname": "Яковлев",
+        "lastname": "Петр",
+        "email": "LollaKIrr@mail.ru"
+      },
+      {
+        "id": 7,
+        "edit": false,
+        "firstname": "Тихомиров",
+        "lastname": "Павел",
+        "email": "PavelTi@gmail.com"
+      },
+      {
+        "id": 8,
+        "edit": false,
+        "firstname": "Компотов",
+        "lastname": "Кирилл",
+        "email": "Kirra@gmail.com"
+      },
+      {
+        "id": 9,
+        "edit": false,
+        "firstname": "Антонов",
+        "lastname": "Филипп",
+        "email": "Antonov@gmail.com"
+      }       
+    ]
+  }

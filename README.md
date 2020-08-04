@@ -1,17 +1,17 @@
 # How to start a project?
 
 
-## Project setup
+## 1) Project setup
 ```
 yarn install
 ```
 
-### Compiles and minifies for production
+### 2) Compiles and minifies for production
 ```
 yarn build
 ```
 
-### Start Product
+### 3) Start Product
 ```
 yarn start
 ```
